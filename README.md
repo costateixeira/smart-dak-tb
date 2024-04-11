@@ -16,7 +16,7 @@ development of a person-centred digital tracking and decision support (DTDS) sys
 the digital system, with a transparent mechanism to review the validity and accuracy of the health content; and
 * to provide a starting point of the core data elements and decision-support logic that should be included within DTDS systems for TB.
 
-Information detailed in this DAK reflects generic workflow processes, data and decision-support algorithms, as derived from TB and other related WHO documents. Note that the outputs of the DAKs are intentionally generic and will need to be contextualized to local policies and requirements.
+Information detailed in this DAK reflects data elements, generic workflow processes, decision-support algorithms, functional and non-functional requirements as derived from TB and other related WHO documents. Note that the outputs of the DAKs are intentionally generic and will need to be contextualized to local policies and requirements.
 
 The TB DAK publication can be found here [IRIS link].
 
