@@ -5,34 +5,35 @@ The operational and standardized documentation reflected within the digital adap
 Within this vision, DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health. The five-step pathway to advance the adoption of best clinical and data practices for TB is presented below.
 
 ### L1 Narrative guidelines
-<mark>Evidence-based guideline recommendations and accompanying implementation and data guidance for TB.</mark>
+Evidence-based guideline recommendations and accompanying implementation and data guidance for TB.
 
 ### L2 Operational guidelines
-The L2 <mark>TB</mark> Digital adaptation kit publications and implementations tools can be found here:
+The L2 TB Digital adaptation kit publications and implementations tools can be found here:
 
 <!-- insert links inside the parentheses below --->
-- [Published DAK Document]()
+- Published DAK Document (link coming soon)
 
 - [Link to core data dictionary](smart.who.int/dak/tb/dictionary)
  
-- [Link to decision support logic](smart.who.int/dak/tb/scheduling-logic)
+- [Link to decision support logic](smart.who.int/dak/tb/decision-logic)
 
-- [Link to scheduling logic](smart.who.int/dak/tb/decision-logic)
+- [Link to scheduling logic](smart.who.int/dak/tb/scheduling-logic)
 
 - [Link to indicators table](smart.who.int/dak/tb/indicators)
  
 - [Link to functional and non functional requirements](smart.who.int/dak/tb/system-requirements)
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the <mark>TB</mark> SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
+The L3 FHIR Implementation Guide for the TB SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
 
 ### L4 Executable guidelines
-Reference implementations representing the L4 layer for the <mark>TB</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Reference implementations representing the L4 layer for the TB SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### L5 Dynamic guidelines
-Content representing the L5 layer for the <mark>TB</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Content representing the L5 layer for the TB SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### News
+Coming soon.
 
 ### Contact Us
 <p>Please let us know about your experience in using the DAK and questions you may have by contacting us at <a href= "mailto:SMART@who.int?subject = DAK Feedback">SMART@who.int</a></p>
