@@ -1,40 +1,36 @@
 <!---Note: Remove this below div element for releasing, only to maintain for main branch -->
-<div>
-<p> This DAK and set of implementation tools are still undergoing development. </p>
-<p> Content is for demonstration purposes only. </p>
-</div>{:.stu-note}
 
-
-### Summary 
-This WHO <mark>[insert health domain here]</mark> DAK <mark>add content here</mark>
+### WHO SMART guidelines 
+The operational and standardized documentation reflected within the digital adaptation kits (DAKs) represents one of the steps within a broader vision of standards-based, machine-readable, adaptive, requirements-based and testable (SMART) guidelines. SMART guidelines aim to maximize health impact through improved fidelity and uptake of recommendations within standards-based digital systems through a systematic process for transforming guideline development, delivery and application. 
+Within this vision, DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health. The five-step pathway to advance the adoption of best clinical and data practices for TB is presented below.
 
 ### L1 Narrative guidelines
-<mark>[insert content here]</mark>
+<mark>Evidence-based guideline recommendations and accompanying implementation and data guidance for TB.</mark>
 
 ### L2 Operational guidelines
-The L2 <mark>[insert health domain here]</mark> Digital adaptation kit publications and implementations tools can be found here:
+The L2 <mark>TB</mark> Digital adaptation kit publications and implementations tools can be found here:
 
 <!-- insert links inside the parentheses below --->
 - [Published DAK Document]()
 
-- [Link to core data dictionary]()
+- [Link to core data dictionary](smart.who.int/dak/tb/dictionary)
  
-- [Link to decision support logic]() 
+- [Link to decision support logic](smart.who.int/dak/tb/scheduling-logic)
 
-- [Link to scheduling logic]() 
+- [Link to scheduling logic](smart.who.int/dak/tb/decision-logic)
 
-- [Link to indicators table]()
+- [Link to indicators table](smart.who.int/dak/tb/indicators)
  
-- [Link to functional and non functional requirements]()
+- [Link to functional and non functional requirements](smart.who.int/dak/tb/system-requirements)
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the <mark>[insert health domain here]</mark> SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
+The L3 FHIR Implementation Guide for the <mark>TB</mark> SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
 
 ### L4 Executable guidelines
-Reference implementations representing the L4 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Reference implementations representing the L4 layer for the <mark>TB</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### L5 Dynamic guidelines
-Content representing the L5 layer for the <mark>[insert health domain here]</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
+Content representing the L5 layer for the <mark>TB</mark> SMART Guidelines are not yet available. Links will be published here as soon as they're available.
 
 ### News
 
