@@ -1,8 +1,7 @@
 <!---Note: Remove this below div element for releasing, only to maintain for main branch -->
 
 ### WHO SMART guidelines 
-The operational and standardized documentation reflected within the digital adaptation kits (DAKs) represents one of the steps within a broader vision of standards-based, machine-readable, adaptive, requirements-based and testable (SMART) guidelines. SMART guidelines aim to maximize health impact through improved fidelity and uptake of recommendations within standards-based digital systems through a systematic process for transforming guideline development, delivery and application. 
-Within this vision, DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health. The five-step pathway to advance the adoption of best clinical and data practices for TB is presented below.
+[SMART Guidelines](https://www.who.int/teams/digital-health-and-innovation/smart-guidelines/) — Standards-based, Machine-readable, Adaptive, Requirements-based, and Testable -- are a comprehensive set of reusable digital health components (e.g., interoperability standards, code libraries, algorithms, technical and operational specifications) that preserve fidelity during the transformation of the guidelines into digital solutions for the adaptation, implementation and uptake of the guidelines. The operational and standardized documentation reflected within the digital adaptation kits (DAKs), as the 2nd layer of the SMART guidelines, represents one of the steps within a broader vision. Within this vision, DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health. The five-step pathway to advance the adoption of best clinical and data practices for TB is presented below.
 
 ### L1 Narrative guidelines
 Evidence-based guideline recommendations and accompanying implementation and data guidance for TB.
@@ -31,9 +30,6 @@ Reference implementations representing the L4 layer for the TB SMART Guidelines 
 
 ### L5 Dynamic guidelines
 Content representing the L5 layer for the TB SMART Guidelines are not yet available. Links will be published here as soon as they're available.
-
-### News
-Coming soon.
 
 ### Contact Us
 <p>Please let us know about your experience in using the DAK and questions you may have by contacting us at <a href= "mailto:SMART@who.int?subject = DAK Feedback">SMART@who.int</a></p>
