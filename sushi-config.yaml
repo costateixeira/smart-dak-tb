@@ -258,3 +258,13 @@ menu:
 #   setId: always # always | standalone-only
 dependencies:
   who.base: current
+
+parameters: 
+  path-pages: 
+  - input/dictionary
+  - input/decision-logic
+  - input/business-processes
+  - input/scheduling-logic
+  - input/indicators
+  - input/system-requirements
+  - input/testing
