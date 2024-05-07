@@ -47,6 +47,8 @@ pages:
       title: Data Dictionary
     decision-logic.md:
       title: Decision-support logic
+    scheduling-logic.md:
+      title: Scheduling logic
     indicators.md:
       title: Indicator and Performance Metrics
     functional-requirements.md:
@@ -105,6 +107,7 @@ menu:
     Business Processes: business-processes.html
     Data Dictionary: dictionary.html
     Decision-support Logic: decision-logic.html
+    Scheduling Logic: scheduling-logic.html
     Indicator and Performance Metrics: indicators.html
     Functional Requirements: functional-requirements.html
     Non-functional Requirements: non-functional-requirements.html
