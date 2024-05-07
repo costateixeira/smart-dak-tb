@@ -10,7 +10,7 @@ Evidence-based guideline recommendations and accompanying implementation and dat
 The L2 TB Digital adaptation kit publications and implementations tools can be found here:
 
 <!-- insert links inside the parentheses below --->
-- Published DAK Document (link coming soon)
+- [Published DAK Document](https://iris.who.int/handle/10665/376631)
 
 - [Link to core data dictionary](smart.who.int/dak/tb/dictionary)
  
