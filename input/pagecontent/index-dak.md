@@ -12,15 +12,15 @@ The L2 TB Digital adaptation kit publications and implementations tools can be f
 <!-- insert links inside the parentheses below --->
 - [Published DAK Document](https://iris.who.int/handle/10665/376631)
 
-- [Link to core data dictionary](smart.who.int/dak/tb/dictionary)
+- [Link to core data dictionary](smart.who.int/dak-tb/dictionary)
  
-- [Link to decision support logic](smart.who.int/dak/tb/decision-logic)
+- [Link to decision support logic](smart.who.int/dak-tb/decision-logic)
 
-- [Link to scheduling logic](smart.who.int/dak/tb/scheduling-logic)
+- [Link to scheduling logic](smart.who.int/dak-tb/scheduling-logic)
 
-- [Link to indicators table](smart.who.int/dak/tb/indicators)
+- [Link to indicators table](smart.who.int/dak-tb/indicators)
  
-- [Link to functional and non functional requirements](smart.who.int/dak/tb/system-requirements)
+- [Link to functional and non functional requirements](smart.who.int/dak-tb/system-requirements)
 
 ### L3 Machine readable guidelines
 The L3 FHIR Implementation Guide for the TB SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
