@@ -51,6 +51,8 @@ pages:
       title: Scheduling logic
     indicators.md:
       title: Indicator and Performance Metrics
+    system-requirements.md:
+      title: System Requirements
     functional-requirements.md:
       title: Functional Requirements
     non-functional-requirements.md:
@@ -109,8 +111,9 @@ menu:
     Decision-support Logic: decision-logic.html
     Scheduling Logic: scheduling-logic.html
     Indicator and Performance Metrics: indicators.html
-    Functional Requirements: functional-requirements.html
-    Non-functional Requirements: non-functional-requirements.html
+    System Requirements: system-requirements.html
+ #   Functional Requirements: functional-requirements.html
+  #  Non-functional Requirements: non-functional-requirements.html
   Data Models and Exchange:
     System Actors: system-actors.html
     Sequence Diagrams: sequence-diagrams.html
