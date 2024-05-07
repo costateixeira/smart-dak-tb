@@ -16,7 +16,7 @@ The L2 TB Digital adaptation kit publications and implementations tools can be f
  
 - [Link to decision support logic](smart.who.int/dak-tb/decision-logic)
 
-- [Link to scheduling logic](smart.who.int/dak-tb/scheduling-logic)
+- [Link to scheduling logic](/scheduling-logic)
 
 - [Link to indicators table](smart.who.int/dak-tb/indicators)
  
