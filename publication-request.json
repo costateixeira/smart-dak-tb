@@ -1,0 +1,14 @@
+{
+    "package-id" : "smart.who.int.dak.tb",
+    "title" : "SMART DAK TB", 
+    "category" : "base",
+    "introduction" : "SMART DAK TB",
+    "version" : "0.9.9",
+    "desc" : "0.9.9 Draft release",
+    "mode" : "milestone",    
+    "path" : "http://smart.who.int/dak-tb/0.9.9",
+    "ci-build": "http://worldhealthorganization.github.io/smart-dak-tb",    
+    "first": true,
+    "status" : "draft",
+    "sequence" : "Releases"
+  }
