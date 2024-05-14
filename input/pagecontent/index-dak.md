@@ -1,29 +1,33 @@
 <!---Note: Remove this below div element for releasing, only to maintain for main branch -->
 
-### WHO SMART guidelines 
-[SMART Guidelines](https://www.who.int/teams/digital-health-and-innovation/smart-guidelines/) — Standards-based, Machine-readable, Adaptive, Requirements-based, and Testable -- are a comprehensive set of reusable digital health components (e.g., interoperability standards, code libraries, algorithms, technical and operational specifications) that preserve fidelity during the transformation of the guidelines into digital solutions for the adaptation, implementation and uptake of the guidelines. The operational and standardized documentation reflected within the digital adaptation kits (DAKs), as the 2nd layer of the SMART guidelines, represents one of the steps within a broader vision. Within this vision, DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health. The five-step pathway to advance the adoption of best clinical and data practices for TB is presented below.
+### Summary 
+The WHO Global Tuberculosis Programme (GTB) works towards the goal of a world free of TB, with zero deaths, disease and suffering due to the disease. One of its core functions is to develop policy options, norms and standards for TB prevention and care and facilitate their implementation. The five-step pathway to advance the adoption of best clinical and data practices for TB is presented below.
 
 ### L1 Narrative guidelines
-Evidence-based guideline recommendations and accompanying implementation and data guidance for TB.
+To guide national TB programmes in the efforts of ending the TB epidemic, GTB releases narrative guidelines on TB prevention, diagnosis and treatment based on latest available evidence. In addition to these guidelines, GTB also releases various guidance documents including TB surveillance guidance. These guidelines and guidance documents informed the development of the digital adaptation kit for TB (DAK for TB). The WHO consolidated guidelines on TB can be found [here](https://tbksp.org/en), and the WHO TB surveillance guidance can be found [here](https://iris.who.int/handle/10665/376612).
 
 ### L2 Operational guidelines
-The L2 TB Digital adaptation kit publications and implementations tools can be found here:
+Digital adaptation kits are designed to facilitate the accurate reflection of WHO’s clinical, public health and data use guidelines within the digital systems countries are adopting. DAKs are operational, software-agnostic, standardized documentation that distil clinical, public health and data use guidance into a format that can be transparently incorporated into digital systems. DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health. 
+
+The DAK for TB and the associated implementations tools can be found here: 
 
 <!-- insert links inside the parentheses below --->
 - [Published DAK Document](https://iris.who.int/handle/10665/376631)
 
-- [Link to core data dictionary](https://smart.who.int/dak-tb/dictionary.html)
+- Implementation tools:
+  
+    - [Link to core data dictionary](https://smart.who.int/dak-tb/dictionary.html)
  
-- [Link to decision support logic](https://smart.who.int/dak-tb/decision-logic.html)
+    - [Link to decision support logic](https://smart.who.int/dak-tb/decision-logic.html)
 
-- [Link to scheduling logic](https://smart.who.int/dak-tb/scheduling-logic.html)
+    - [Link to scheduling logic](https://smart.who.int/dak-tb/scheduling-logic.html)
 
-- [Link to indicators table](https://smart.who.int/dak-tb/indicators.html)
+    - [Link to indicators table](https://smart.who.int/dak-tb/indicators.html)
  
-- [Link to functional and non functional requirements](https://smart.who.int/dak-tb/system-requirements.html)
+    - [Link to functional and non functional requirements](https://smart.who.int/dak-tb/system-requirements.html)
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the TB SMART Guidelines is yet to be published. Links will be published here as soon as they're available.
+The L3 FHIR Implementation Guide for the TB SMART Guidelines is yet to be developed. Links will be published here as soon as they are available.
 
 ### L4 Executable guidelines
 Reference implementations representing the L4 layer for the TB SMART Guidelines are not yet available. Links will be published here as soon as they're available.
