@@ -9,7 +9,7 @@ To guide national TB programmes in the efforts of ending the TB epidemic, GTB re
 ### L2 Operational guidelines
 Digital adaptation kits are designed to facilitate the accurate reflection of WHO’s clinical, public health and data use guidelines within the digital systems countries are adopting. DAKs are operational, software-agnostic, standardized documentation that distil clinical, public health and data use guidance into a format that can be transparently incorporated into digital systems. DAKs serve as a prerequisite for developing computable, or machine-readable, guidelines, as well as executable reference software and advanced analytics for precision health. 
 
-The DAK for TB and the associated implementations tools can be found here: 
+The DAK for TB and the associated implementation tools can be found here: 
 
 <!-- insert links inside the parentheses below --->
 - [Published DAK Document](https://iris.who.int/handle/10665/376631)
