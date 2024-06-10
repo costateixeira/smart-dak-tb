@@ -8,7 +8,7 @@
     "mode" : "milestone",    
     "path" : "http://smart.who.int/dak-tb/v1.0.0",
     "ci-build": "http://worldhealthorganization.github.io/smart-dak-tb",    
-    "first": true,
+    "first": false,
     "status" : "active",
     "sequence" : "Releases"
   }
