@@ -3,12 +3,12 @@
     "title" : "SMART DAK TB", 
     "category" : "base",
     "introduction" : "SMART DAK TB",
-    "version" : "0.9.9",
-    "desc" : "0.9.9 Draft release",
+    "version" : "1.0.0",
+    "desc" : "1.0.0 Release",
     "mode" : "milestone",    
-    "path" : "http://smart.who.int/dak-tb/v0.9.9",
+    "path" : "http://smart.who.int/dak-tb/v1.0.0",
     "ci-build": "http://worldhealthorganization.github.io/smart-dak-tb",    
-    "first": true,
-    "status" : "draft",
+    "first": false,
+    "status" : "active",
     "sequence" : "Releases"
   }
