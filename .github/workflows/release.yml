@@ -52,6 +52,12 @@ jobs:
       - name: List contents of current directory before running the publisher
         run: ls -la
 
+      - name: Ensure write permissions for webroot and source directories
+        run: |
+          chmod -R 777 webroot
+          chmod -R 777 source
+          chmod -R 777 fhir-package-cache
+          
       - name: Run the IG publisher
         run: |
           docker run --rm -v $(pwd):/workspace -w /workspace hl7fhir/ig-publisher-base:latest java -Xmx4g -jar ./publisher.jar publisher -ig source -package-cache-folder fhir-package-cache
