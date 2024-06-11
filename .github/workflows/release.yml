@@ -1,8 +1,7 @@
 name: ReleaseBuild
 
 on:
-  workflow_call: # Reusable by other workflows
-  workflow_dispatch:
+  push:
 
 jobs:
   build:
